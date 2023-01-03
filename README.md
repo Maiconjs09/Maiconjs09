@@ -16,12 +16,6 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: maiconjsdev@gmail.com">
-      <img width="30" src="!Logo_Gmail_(2015-2020) svg](https://user-images.githubusercontent.com/104453251/210424672-9f952ab3-aed2-423f-a189-881a6b0d9508.png)
-">
     </a>
     <a href = "www.linkedin.com/in/maiconjs09">
       <img width="25" src="linkedin.svg">
