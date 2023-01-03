@@ -20,8 +20,7 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: maiconjsdev@gmail.com">
-      <img width="30" src="gmail.svg">![gmail](https://user-images.githubusercontent.com/104453251/210423298-9fc566a7-4a59-4dc1-a940-289d6bc05ed3.svg)
-
+      <img width="30" src="gmail.svg">
     </a>
     <a href = "www.linkedin.com/in/maiconjs09">
       <img width="25" src="linkedin.svg">
