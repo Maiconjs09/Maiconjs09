@@ -17,10 +17,7 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
     </a>
-    <a href = "www.linkedin.com/in/maiconjs09">
-      <img width="25" src="linkedin.svg">
-    </a>
-</div>
-  ![linkedin](https://user-images.githubusercontent.com/104453251/210424941-9c131f9d-cc7f-4a1a-a0a0-4b8d74fa0273.svg)
+  
+  
 
 ![Snake animation](https://github.com/Maiconjs09/Maiconjs09/blob/output/github-contribution-grid-snake.svg)
