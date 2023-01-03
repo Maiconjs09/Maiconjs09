@@ -28,3 +28,7 @@
 </div>
   
 ![Snake animation](https://github.com/Maiconjs09/Maiconjs09/blob/output/github-contribution-grid-snake.svg)
+![gmail](https://user-images.githubusercontent.com/104453251/210422051-bdfb2281-7daf-4766-836c-3a90575023a4.svg)
+![instagram](https://user-images.githubusercontent.com/104453251/210422054-1b356352-dc56-4e30-b02f-5d1061507a4b.png)
+![linkedin](https://user-images.githubusercontent.com/104453251/210422056-ece39290-bbf6-481e-8091-41024b46fbce.svg)
+![code](https://user-images.githubusercontent.com/104453251/210422058-31d1fa70-9de2-4051-8dc8-799a109c4758.gif)
