@@ -17,6 +17,9 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
     
+    src=""images/eye.svg" [svgStyle]="{ 'width.px':90 }"></svg">
+   </div>
+    
     <svg-icon src="images/eye.svg" [svgStyle]="{ 'width.px':90 }"></svg-icon>
     </a>
   
